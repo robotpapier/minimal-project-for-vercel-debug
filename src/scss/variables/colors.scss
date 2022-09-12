@@ -1,0 +1,62 @@
+$dark-blue:#009e9a;
+$dark-purple:#8636ae;
+$white: #ffffff;
+$grey: #dfe0df;
+$yellow: #fee80e;
+$pink: #ea5076;
+$blue: #0071bb;
+$light-pink: #F0858E;
+$light-blue: #28abe2;
+$green: #8BC63F;
+
+.dark-blue {
+    color: $dark-blue; 
+}
+  
+.dark-blue-bg {
+    background-color: $dark-blue;
+    color: $white;
+}
+
+.yellow {
+    color: $yellow;
+}
+
+.yellow-bg {
+    background-color: $dark-blue;
+    color: $white;
+}
+
+.green {
+    color: $green;
+}
+
+.green-bg {
+    background-color: $green;
+    color: $white;
+}
+
+.blue {
+    color: $blue;
+}
+.blue-bg {
+    background-color: $blue;
+    color: $white;
+}
+
+.pink {
+    color: $pink;
+}
+.pink-bg {
+    background-color: $pink;
+    color: $white;
+}
+
+.light-blue {
+    color: $light-blue;
+  }
+  
+.light-blue-bg {
+    background-color: $light-blue;
+}
+  
