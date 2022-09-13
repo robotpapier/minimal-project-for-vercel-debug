@@ -19,3 +19,4 @@ yarn build
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 test 1
+test 2
