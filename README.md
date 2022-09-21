@@ -20,3 +20,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 test 1
 test 2
+
+just modifying the readme file
+first modification
